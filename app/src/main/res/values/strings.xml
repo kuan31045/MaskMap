@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">口罩庫存地圖</string>
+    <string name="google_maps_key">YourKey</string>
+
+
+    <string name="no_data">很抱歉，查無資料或正在更新中。</string>
+
+
+
+</resources>
